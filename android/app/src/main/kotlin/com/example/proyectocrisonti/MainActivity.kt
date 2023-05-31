@@ -1,6 +1,0 @@
-package com.example.proyectocrisonti
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}

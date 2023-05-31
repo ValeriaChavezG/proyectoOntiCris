@@ -1,0 +1,6 @@
+package com.mycompany.southslprueba
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
